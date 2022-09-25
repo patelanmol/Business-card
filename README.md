@@ -1,1 +1,1 @@
-# A small CSS project to create a Business Card
+A small CSS project to create a Business Card
